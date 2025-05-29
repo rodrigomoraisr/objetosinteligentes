@@ -21,3 +21,19 @@ O projeto entrega uma solução de monitoramento de reservatórios, utilizando u
 
 # Aplicativo Feito no Node-Red  
 ![image](https://github.com/user-attachments/assets/c10f19ae-8bdb-429d-bfc7-73dc338cb644)
+
+# Documentações
+Arduino hardware:
+https://docs.arduino.cc/hardware/?_gl=1*1nm7z4q*_up*MQ..*_ga*Mjk1MzM4NzgyLjE3NDg1MzkzMTc.*_ga_NEXN8H46L5*czE3NDg1MzkzMTUkbzEkZzAkdDE3NDg1MzkzMTUkajYwJGwwJGgxMzkwNDMzMTY1
+
+Arduino IDE:
+https://docs.arduino.cc/software/ide/?_gl=1*1oiq2o4*_up*MQ..*_ga*MjI0MDA1MzMxLjE3NDg1Mzk1MTU.*_ga_NEXN8H46L5*czE3NDg1Mzk1MTMkbzEkZzAkdDE3NDg1Mzk1MTMkajYwJGwwJGgxMDE1MzE0ODY4
+
+ESP32:
+https://www.espressif.com/sites/default/files/doc
+
+MOSQUITTO:
+https://mosquitto.org/documentation/
+
+Nodered:
+https://nodered.org/docs/
